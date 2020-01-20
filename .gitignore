@@ -5,3 +5,4 @@ __pycache__
 envx
 .vscode/launch.json
 .vscode/settings.json
+.env
